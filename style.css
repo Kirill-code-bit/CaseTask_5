@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(../poster_event_1797453.jpg);
+    background-repeat: no-repeat;
+    background-position:inherit;
+}
+input[type=text]{
+    margin-left: 530px;
+    user-select: none;
+    width: 280px;
+    padding: 10px;
+    border-color: coral;
+    border-radius: 10px;
+    background-color: coral;
+    font-size: xx-large;
+}
+input[type=button]{
+    margin-left: 530px;
+    border-radius: 10px;
+    padding: 10px;
+    border-color: coral;
+    background-color:coral;
+    width: 180px;
+    font-size: xx-large;
+}
+.section,h2{
+    margin-left: 530px;
+    font-size: xx-large;
+    border-radius: 10px;
+}
